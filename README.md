@@ -10,10 +10,6 @@ ERGO es una plataforma de notas y apuntes colaborativos para estudiantes STEM. E
 * **Soporte LaTeX:** Renderizado impecable de fórmulas matemáticas mediante KaTeX/MathJax.
 * **Feedback Directo:** Comentarios en cada página para correcciones o sugerencias.
 ---
-### Para usuarios
-Podés acceder a la versión publicada del sitio aquí:  
-
-👉 **[https://tomasccc.github.io/CALCII-FAMAF-UNC/](https://tomasccc.github.io/CALCII-FAMAF-UNC/)**
 ### Para colaboradores
 ¿Querés sumar tu apunte?
 > 💡 Consultá la **[Guía de Contribución](docs/contribution-guide.md)** para conocer los detalles técnicos (uso de carpetas, previsualización de fórmulas, etc).
