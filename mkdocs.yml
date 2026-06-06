@@ -57,7 +57,7 @@ extra:
       name: Invitame un café / Colaborar
   decap_proxy: https://decap-proxy.tomycaruso.workers.dev
   giscus:
-    repo: tomasccc/ergo-comments
+    repo: ergonotes/ergo-comments
     repo_id: R_kgDOSfmUxg
     category: Announcements
     category_id: DIC_kwDOSfmUxs4C9Nn1
