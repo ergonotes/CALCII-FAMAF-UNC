@@ -36,3 +36,6 @@ $$
 $$
 ... Y para este último ejemplo agregamos la gráfica del mismo, que refiere a otro concepto en funciones de varias variables, ya que estamos:
 ![[Pasted image 20260516182645.png]]
+
+****
+--8<-- "includes/fuente.md"

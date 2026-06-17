@@ -61,3 +61,7 @@ De ahí que, por la definición,
 $$
 \lim_{(x, y) \to (0, 0)} \frac{3x^2y}{x^2 + y^2} = 0
 $$ $\blacksquare$
+
+
+****
+--8<-- "includes/fuente.md"

@@ -2,7 +2,7 @@ local_backend: false
 locale: es
 backend:
   name: github
-  repo: tomasccc/CALCII-FAMAF-UNC
+  repo: ergonotes/CALCII-FAMAF-UNC
   branch: main
   base_url: https://decap-proxy.tomycaruso.workers.dev
   open_authoring: true
@@ -151,6 +151,32 @@ collections:
 - name: oficial_c_lculo_vectorial
   label: '📚 Oficial: Cálculo Vectorial'
   folder: docs/oficial/Cálculo Vectorial
+  create: true
+  delete: true
+  extension: md
+  summary: '{{title}}'
+  fields:
+  - label: Título
+    name: title
+    widget: string
+  - label: Cuerpo
+    name: body
+    widget: markdown
+  - label: Autoría y Responsabilidad (Obligatorio)
+    name: check_autoria_responsabilidad
+    widget: select
+    options:
+    - No estoy de acuerdo
+    - Acepto
+    default: No estoy de acuerdo
+    hint: 👉 Desplegá el menú y seleccioná "Acepto..." para habilitar el guardado.
+    pattern:
+    - Acepto
+    - ' Debes abrir el menú desplegable y aceptar las condiciones de uso y distribución
+      para publicar/editar.'
+- name: oficial_funciones_de_varias_variables
+  label: '📚 Oficial: Funciones de Varias Variables'
+  folder: docs/oficial/Funciones de Varias Variables
   create: true
   delete: true
   extension: md

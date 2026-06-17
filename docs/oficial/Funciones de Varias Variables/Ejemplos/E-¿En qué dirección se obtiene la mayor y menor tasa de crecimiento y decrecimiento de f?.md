@@ -5,3 +5,6 @@
 Por lo tanto:
 * La tasa de mayor crecimiento es en la dirección $\tilde{u} = \nabla f(1, 2) = (2, 2)$.
 * La tasa de mayor decrecimiento es en la dirección $\tilde{v} = -\nabla f(1, 2) = (-2, -2)$.
+
+****
+--8<-- "includes/fuente.md"

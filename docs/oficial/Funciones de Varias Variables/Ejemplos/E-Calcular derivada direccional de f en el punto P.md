@@ -5,3 +5,6 @@
 Por otra parte, $\frac{\partial f}{\partial x}(x, y) = e^y$ y $\frac{\partial f}{\partial y}(x, y) = x e^y$, ambas son funciones continuas.
 
 Luego, por teorema, $D_{\vec{u}}f(2, 0) = \langle \nabla f(2, 0), \vec{u} \rangle = \langle (e^0, 2e^0), (\frac{1}{2}, \frac{\sqrt{3}}{2}) \rangle = \frac{1}{2} + \sqrt{3} \ \blacksquare$
+
+****
+--8<-- "includes/fuente.md"

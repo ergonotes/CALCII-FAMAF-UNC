@@ -11,3 +11,6 @@ $$
 *   **Para la coordenada $\mathbf{k}$ (la $z$):** Tapa la columna de la $\mathbf{k}$. Multiplica en cruz lo que te quedó a la izquierda: $(u_1v_2 - u_2v_1)$.
 Luego, con Si $\mathbf{v} = \langle v_1, v_2, v_3 \rangle$ y $\mathbf{u} = \langle u_1, u_2, u_3 \rangle$, el **producto cruz** de $\mathbf{v}$ y $\mathbf{u}$ es el vector
 $$\mathbf{v} \times \mathbf{u} = \langle v_2u_3 - v_3u_2, \ v_3u_1 - v_1u_3, \ v_1u_2 - v_2u_1 \rangle$$
+
+****
+--8<-- "includes/fuente.md"

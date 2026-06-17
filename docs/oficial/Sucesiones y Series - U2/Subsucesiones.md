@@ -40,3 +40,7 @@ Como una subsucesión se forma simplemente tomando términos de esa misma sucesi
 * Si logramos encontrar una **subsucesión** que diverge.
 * O si logramos encontrar dos **subsucesiones** que convergen a límites distintos.
 *  $$\implies \text{ Entonces podemos afirmar con absoluta seguridad que la sucesión original diverge.}$$
+
+
+****
+--8<-- "includes/fuente.md"

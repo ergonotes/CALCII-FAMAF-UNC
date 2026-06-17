@@ -26,3 +26,6 @@ Como se suele escribir $\partial z/\partial x$ en vez de $\partial f/\partial x$
 $$
 \frac{dz}{dt} = \frac{\partial z}{\partial x} \frac{dx}{dt} + \frac{\partial z}{\partial y} \frac{dy}{dt}
 $$
+
+****
+--8<-- "includes/fuente.md"

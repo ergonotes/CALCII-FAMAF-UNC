@@ -26,3 +26,7 @@ $$
 D_{\mathbf{u}}f(x_0, y_0) = f_x(x_0, y_0)a + f_y(x_0, y_0)b \quad \blacksquare
 $$
 
+
+
+****
+--8<-- "includes/fuente.md"

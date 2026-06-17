@@ -21,3 +21,7 @@ $$f^{(n)}(a) = 2 \cdot 3 \cdot 4 \cdot \cdots \cdot n c_n = n!c_n$$
 Al resolver esta ecuación para el $n$-ésimo coeficiente ($c_n$), tenemos
 $$c_n = \frac{f^{(n)}(a)}{n!}$$
 Esta fórmula sigue siendo válida incluso para ($n = 0$) si adoptamos la convención de que ($0! = 1$) y ($f^{(0)} = f$). En estos términos, hemos demostrado el teorema del inciso \[[11.10 Series de Taylor y Maclaurin]]
+
+
+****
+--8<-- "includes/fuente.md"

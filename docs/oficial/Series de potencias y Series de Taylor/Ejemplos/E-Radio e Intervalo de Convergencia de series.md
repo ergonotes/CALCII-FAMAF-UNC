@@ -17,3 +17,7 @@ Veamos qué pasa en ($x = a - R = 1 - \frac{3}{2}$) y en ($x = a + R = 1 + \frac
 
 * Si ($x = 1 + \frac{3}{2}$), obtenemos $$\sum_{n=1}^{\infty} \frac{(-1)^{n+1} 2^n}{n 3^n} \left(\frac{3}{2}\right)^n = \sum_{n=1}^{\infty} \frac{(-1)^{n+1}}{n} \to \text{converge}$$ (por criterio para series alternantes)
 Por lo tanto, el intervalo de convergencia es ($I = (1 - \frac{3}{2}, 1 + \frac{3}{2}] = (-\frac{1}{2}, \frac{5}{2}]$)
+
+
+****
+--8<-- "includes/fuente.md"

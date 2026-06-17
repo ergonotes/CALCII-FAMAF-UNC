@@ -53,3 +53,7 @@ $$
 dx = 2 \left( \frac{1}{1 + t^2} \right) dt = \frac{2}{1 + t^2} dt
 $$
 
+
+
+****
+--8<-- "includes/fuente.md"

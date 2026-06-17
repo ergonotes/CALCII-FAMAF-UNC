@@ -6,3 +6,4 @@
 $d = 3 \cdot 2 + 2 \cdot (-1) + 1 = 6 - 2 + 1 = 5$ (lo que hicimos fue calcular $ax_0 + by_0 + cz_0$)
 
 La ecuación cartesiana es: $3x + 2y + z = 5$
+

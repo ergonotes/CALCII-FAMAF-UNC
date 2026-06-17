@@ -15,3 +15,7 @@ Si tenemos una recta $l$ y un punto $P$ fuera de ella, entonces eligiendo dos pu
 ![[Pasted image 20260503112647.png]]
 Nos basta elegir dos puntos $P$ y $Q$ sobre una de las rectas y un punto $Q$ sobre la otra y luego procedemos como en el caso ***1***.
 
+
+
+****
+--8<-- "includes/fuente.md"

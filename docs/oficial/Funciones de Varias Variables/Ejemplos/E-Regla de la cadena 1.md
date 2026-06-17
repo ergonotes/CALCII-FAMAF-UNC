@@ -18,3 +18,6 @@ entonces $\frac{df}{dt} = 2\text{sen}(t)\cos(t) + 2e^{2t} + \cos(t)e^t + \text{s
 ****
 A veces, usar la Regla de la Cadena, como hicimos en el ejemplo es más rápido y ordenado si las funciones son horriblemente complejas.
 Otras veces, si las sustituciones son fáciles, simplemente meter las funciones adentro y derivar todo de golpe (la observación) se nos hace más memorable, y funciona como una forma alternativa si las funciones originales tienen picos o puntos no derivables.
+
+****
+--8<-- "includes/fuente.md"

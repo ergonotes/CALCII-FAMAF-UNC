@@ -25,3 +25,6 @@ $$\sum_{n=0}^{\infty} x^n \quad (A) \sim \text{serie geométrica}$$
 Ya sabemos que la serie (A) converge y vale
 $$\frac{1}{1-x} \iff |x| < 1$$
 ![[site/Series de potencias - U3/assets/Pasted image 20251031202734.png]]
+
+****
+--8<-- "includes/fuente.md"

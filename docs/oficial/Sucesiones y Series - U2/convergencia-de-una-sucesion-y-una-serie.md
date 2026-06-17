@@ -18,3 +18,6 @@ Calculamos **límite de la sucesión de sumas parciales**:
 $$
 S = \lim_{n \to \infty} S_n
 $$
+
+****
+--8<-- "includes/fuente.md"

@@ -35,3 +35,6 @@ Vemos que $\left( h + \frac{f_{xy}}{f_{xx}}k \right)^2$ **siempre es positivo o 
 Como los términos al cuadrado son inofensivos (no cambian signos), nos interesan los valores de $f_{xx}$ y de $D$, para determinar el comportamiento de la función en $f(a, b)$.
 Recordemos que estamos en el caso (a):
 Se dio que $f_{xx}(a, b) > 0$ y $D(a, b) > 0$. Pero $f_{xx}$ y $D = f_{xx}f_{yy} - f_{xy}^2$ son funciones continuas, así que existe un disco $B$ con centro $(a, b)$ y radio $\delta > 0$ tal que $f_{xx}(x, y) > 0$ y $D(x, y) > 0$ siempre que $(x, y)$ está en $B$. Por tanto, al examinar la ecuación se advierte que $D_{\mathbf{u}}^2 f(x, y) > 0$ cada vez que $(x, y)$ está en $B$. Esto significa que si $C$ es la curva obtenida de la intersección de la gráfica de $f$ con el plano vertical que pasa por $P(a, b, f(a, b))$ en la dirección de $\mathbf{u}$, $C$ es cóncava hacia arriba en un intervalo de longitud $2\delta$. Esto es cierto en la dirección de todos los vectores $\mathbf{u}$, de modo que si se restringe $(x, y)$ a $B$, la gráfica de $f$ reside arriba de su plano tangente horizontal en $P$. Así, $f(x, y) \ge f(a, b)$ cada vez que $(x, y)$ está en $B$. Esto demuestra que $f(a, b)$ es un mínimo local. $\blacksquare$
+
+****
+--8<-- "includes/fuente.md"

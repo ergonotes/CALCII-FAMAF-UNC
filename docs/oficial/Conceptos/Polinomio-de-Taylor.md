@@ -31,3 +31,7 @@ Si despejamos ($y$) (que es la función de la recta tangente, llamémosla ($L(x)
 ![[site/Series de potencias - U3/assets/Pasted image 20251106100832.png]]
 
 
+
+
+****
+--8<-- "includes/fuente.md"

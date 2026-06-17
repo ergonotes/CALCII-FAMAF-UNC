@@ -19,3 +19,7 @@ $$(y_S - y_I) \Delta x = (2x - x^2 - x^2) \Delta x$$
 por lo que la región se sitúa entre $x = 0$ y $x = 1$. De modo que el área total es
 $$A = \int_0^1 (2x - 2x^2) \, dx = 2 \int_0^1 (x - x^2) \, dx$$
 $$= 2 \left[ \frac{x^2}{2} - \frac{x^3}{3} \right]_0^1 = 2 \left( \frac{1}{2} - \frac{1}{3} \right) = \frac{1}{3}$$
+
+
+****
+--8<-- "includes/fuente.md"

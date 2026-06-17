@@ -14,3 +14,6 @@ De manera que
 $$|R_1(x)| \leq \frac{M}{2}|x-a|^2$$
 Aunque hemos supuesto que $x > a$, cálculos similares muestran que esta desigualdad es válida también para $x < a$.
 Esto demuestra la desigualdad de Taylor para el caso donde $n = 1$. El resultado para cualquier $n$ se demuestra de manera parecida integrando $n + 1$ veces. 
+
+****
+--8<-- "includes/fuente.md"

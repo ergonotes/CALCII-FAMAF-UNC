@@ -6,3 +6,6 @@
 
 (Las curvas de nivel nos ayudan a entender el gráfico de $f$).
 ![[Pasted image 20260523183502.png]]
+
+****
+--8<-- "includes/fuente.md"

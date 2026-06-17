@@ -16,3 +16,6 @@ porque $f$ es continua en $x$. De acuerdo con el teorema del **sandwich** conclu
 $$g'(x) = \lim_{h \to 0} \frac{g(x + h) - g(x)}{h} = f(x)$$De acuerdo con la notación de Leibniz para derivadas, podemos expresar al **TFC1** como
 $$\frac{d}{dx} \int_a^x f(t) \, dt = f(x)$$
 cuando $f$ es continua. En términos generales, la expresión establece que si primero integramos $f$ y luego derivamos el resultado, regresamos a la función original $f$.
+
+****
+--8<-- "includes/fuente.md"

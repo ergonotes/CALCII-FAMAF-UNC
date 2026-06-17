@@ -17,3 +17,6 @@ $$||\mathbf{u}|| = \sqrt{\frac{x^2 + y^2}{L^2}}$$Al principio definimos que $L =
 $$||\mathbf{u}|| = \sqrt{\frac{L^2}{L^2}}$$
 $$||\mathbf{u}|| = \sqrt{1}$$
 $$||\mathbf{u}|| = \mathbf{1}$$
+
+****
+--8<-- "includes/fuente.md"

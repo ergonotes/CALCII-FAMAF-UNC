@@ -38,3 +38,6 @@ Como la serie es infinita, podemos seguir armando estos bloques para siempre. Si
 $$
 \sum_{n=1}^\infty \frac{1}{n} \ge \sum_{i=1}^\infty 1= 1 + 1 + 1 + 1 + \cdots = \infty
 $$
+
+****
+--8<-- "includes/fuente.md"

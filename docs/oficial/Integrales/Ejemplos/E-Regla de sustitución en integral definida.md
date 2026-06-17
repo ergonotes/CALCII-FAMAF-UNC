@@ -5,3 +5,7 @@ $$\int_0^4 \sqrt{2x + 1} \, dx = \int_1^9 \frac{1}{2} \sqrt{u} \, du$$
 $$= \frac{1}{2} \cdot \frac{2}{3} u^{3/2}\big|_1^9$$
 $$= \frac{1}{3} (9^{3/2} - 1^{3/2}) = \frac{1}{3} (27 - 1) = \frac{26}{3}$$
 
+
+
+****
+--8<-- "includes/fuente.md"

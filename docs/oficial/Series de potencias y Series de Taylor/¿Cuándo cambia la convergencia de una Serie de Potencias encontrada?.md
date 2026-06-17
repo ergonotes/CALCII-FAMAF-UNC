@@ -14,3 +14,7 @@ La exepción se dá cuando las funciones se cancelan al sumarse. Por ejemplo, $f
 * Ahora la condición de convergencia es $|3x| < 1$, lo que significa que $|x| < \frac{1}{3}$.
 * Ahora $R = \frac{1}{3}$
 (Si tenemos una función como seno por ejemplo, al encontrar su serie de taylor nos encontraremos con que es válida para todo $x$. Luego si sustituimos el argumento del seno, la función seguirá siendo válida para todo $x$).
+
+
+****
+--8<-- "includes/fuente.md"

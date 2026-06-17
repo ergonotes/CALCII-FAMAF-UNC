@@ -48,3 +48,7 @@ $$|R_n(x)| \leq \frac{M}{(n+1)!} |x - a|^{n+1} \quad \text{para } |x - a| \leq d
 ****
 ##### **Algo a tener en cuenta a la hora de encontrar Series de Taylor**
 **[[¿Cuándo cambia la convergencia de una Serie de Potencias encontrada?]]**
+
+
+****
+--8<-- "includes/fuente.md"

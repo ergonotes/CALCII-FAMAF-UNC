@@ -46,3 +46,7 @@ La fórmula para el término del residuo en el Teorema 4 se llama la **forma de 
 
 $$R_n(x) = \frac{f^{(n+1)}(c)}{(n+1)!} (x - a)^{n+1}$$
 es muy similar a los términos de la serie de Taylor excepto que ($f^{(n+1)}$) se evalúa en ($c$) en lugar de ($a$). Todo lo que podemos decir sobre el número ($c$) es que se encuentra en algún lugar entre ($x$) y ($a$).
+
+
+****
+--8<-- "includes/fuente.md"

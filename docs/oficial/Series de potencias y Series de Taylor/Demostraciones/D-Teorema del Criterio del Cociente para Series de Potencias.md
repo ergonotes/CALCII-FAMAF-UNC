@@ -9,3 +9,7 @@ si ($|x-a| > \frac{1}{L} \implies I \text{ diverge}$)
 
 (2) Si ($L=0$), entonces ($L|x-a| < 1 \quad \forall x \in \mathbb{R}$) y ($\therefore R = \infty$).
 (3) Si ($L=\infty$), entonces ($L|x-a| = \infty \quad \forall x \neq a$) y ($\therefore R = 0$).
+
+
+****
+--8<-- "includes/fuente.md"

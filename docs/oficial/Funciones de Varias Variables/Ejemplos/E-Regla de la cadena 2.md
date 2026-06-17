@@ -20,3 +20,6 @@ $$
 #### **Observación:** notar que si escribimos $f(s, t) = x(s, t)y(s, t) + 2y^2(s, t) + x^3(s, t) = st e^{st} + 2 e^{2st} + s^3 t^3$
 
 entonces $\frac{\partial f}{\partial s}(s, t) = t e^{st} + st^2 e^{st} + 2 \cdot 2t e^{2st} + 3 s^2 t^3$ que es igual a $(\blacksquare)$.
+
+****
+--8<-- "includes/fuente.md"

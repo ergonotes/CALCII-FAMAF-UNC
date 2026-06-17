@@ -28,3 +28,6 @@ La última igualdad $\sum_{n=0}^{\infty} n x^{n-1} = \sum_{n=0}^{\infty} (n+1) x
 ****
 https://gemini.google.com/app/1f9df2dd12a44598?hl=es
 ejemplo explicado paso a paso
+
+****
+--8<-- "includes/fuente.md"

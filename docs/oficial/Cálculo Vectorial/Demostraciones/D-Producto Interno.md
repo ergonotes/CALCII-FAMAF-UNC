@@ -36,3 +36,6 @@ $$ -2 \mathbf{a} \cdot \mathbf{b} = -2 \|\mathbf{a}\| \|\mathbf{b}\| \cos \theta
 o
 
 $$ \mathbf{a} \cdot \mathbf{b} = \|\mathbf{a}\| \|\mathbf{b}\| \cos \theta $$
+
+****
+--8<-- "includes/fuente.md"

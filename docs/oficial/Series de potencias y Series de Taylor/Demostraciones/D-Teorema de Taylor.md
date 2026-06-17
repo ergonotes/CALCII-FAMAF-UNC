@@ -22,3 +22,7 @@ Luego, $$\lim_{n \to \infty} R_{n,a}(x) = \lim_{n \to \infty} (f(x) - T_{n,a}(x)
 ($\Leftarrow$) Si $\lim_{n \to \infty} R_{n,a}(x) = 0$ $\forall x \in (a-c, a+c)$, entonces
 $$\lim_{n \to \infty} T_{n,a}(x) = \lim_{n \to \infty} (f(x) - R_{n,a}(x)) = \lim_{n \to \infty} f(x) - \lim_{n \to \infty} R_{n,a}(x) = f(x) - 0 = f(x)$$
 Luego, por definición $f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!} (x-a)^n$ $\forall x \in (a-c, a+c)$.
+
+
+****
+--8<-- "includes/fuente.md"

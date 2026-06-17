@@ -30,3 +30,6 @@ $$
 
 es continua excepto en $x = 0$. La gráfica de la figura 9 muestra la interrupción en la gráfica de $h$ arriba del eje $y$. $\blacksquare$
 ![[Pasted image 20260517111030.png]]
+
+****
+--8<-- "includes/fuente.md"

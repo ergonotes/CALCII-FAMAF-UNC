@@ -23,3 +23,7 @@ La definición estándar de factorial (($n! = n \cdot (n - 1) \cdot \cdots \cdot
 ##### **La convención de $0^0=1$**
 
 Aclarada un poco en mis notas físicas, pág **3**.
+
+
+****
+--8<-- "includes/fuente.md"

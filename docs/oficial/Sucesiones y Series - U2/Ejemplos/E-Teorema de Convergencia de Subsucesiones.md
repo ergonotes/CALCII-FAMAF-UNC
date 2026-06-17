@@ -18,3 +18,6 @@ Calculamos su límite:
 $$\lim_{k \to \infty} a_{n_k} = \lim_{k \to \infty} \frac{1}{k^2} = 0$$
 ---
 Por lo tanto...$$\lim_{k \to \infty} a_{n_k} = \lim_{n \to \infty} a_n = 0 < \infty$$
+
+****
+--8<-- "includes/fuente.md"

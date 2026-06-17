@@ -1,3 +1,7 @@
 Se adjunta el mejor recurso para entender el concepto...
 https://www.youtube.com/watch?v=1ojs1lfBj80
 
+
+
+****
+--8<-- "includes/fuente.md"

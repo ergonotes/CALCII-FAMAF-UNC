@@ -46,3 +46,7 @@ $$reduciendo el cálculo de esta integral a la integral de la función $\sec^3 \
 
 Similarmente para calcular $\int \sqrt{x^2 - a^2} dx$ se puede usar la sustitución $x = a \sec \theta$, $0 < \theta < \pi/2$
 
+
+
+****
+--8<-- "includes/fuente.md"
