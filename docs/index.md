@@ -7,19 +7,18 @@ $$
 Plataforma colaborativa de apuntes, teoría y ejercicios para la materia **Cálculo II** de FAMAF - UNC.
 
 ---
-
 ### **Secciones**
 
-* 🏛️ **Oficial:** Apuntes teóricos, definiciones y demostraciones estructuradas según el programa de la materia (integrales, sucesiones y series, series de potencias y de Taylor, funciones de varias variables, cálculo vectorial, etc.).
-* 🤝 **Comunidad:** Resúmenes, guías de ejercicios resueltos y aportes elaborados por estudiantes.
+* 🏛️ **Oficial:** Apuntes teóricos, definiciones y demostraciones estructuradas según el programa de la materia. Previamente aprobados por administrador, o designados (contactar al administrador para ser designado)
+* 🤝 **Comunidad:** Aportes de estudiantes, o cualquiera con una cuenta de GitHub.
 
 ---
 
 ### **Herramientas y Recursos**
 
-* ✨ **[Conversor LaTeX (OCR)](ocr.md):** Convierte capturas o fotos de fórmulas manuscritas a código LaTeX listo para usar.
-* 🏷️ **[Índice de Temas](tags.md):** Buscador y filtro de apuntes por etiquetas.
-* 📖 **[Guía de Contribución](contribution-guide.md):** Guía práctica para proponer mejoras o crear nuevos apuntes.
+* **[Conversor LaTeX (OCR)](ocr.md):** Convierte capturas o fotos de fórmulas manuscritas a código LaTeX listo para usar.
+* **[Índice de Temas](tags.md):** Buscador y filtro de apuntes por etiquetas.
+* **[Guía de Contribución](contribution-guide.md):** Guía práctica para proponer mejoras o crear nuevos apuntes.
 
 ---
 
